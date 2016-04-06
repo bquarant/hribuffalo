@@ -15,6 +15,6 @@ Once you have completed the necessary training and have passed the proficiency e
 
 - Complete the application form: <a href="{{ site.baseurl }}/assets/interpreter/VolunteerInterpreterApplication.docx">.docx</a> <a href="{{ site.baseurl }}/assets/interpreter/VolunteerInterpreterApplication.pdf">.pdf</a>
 
-- Email application to wnyhrc@gmail.com
+- Email application to admin@hribuffalo.org
 
 - We'll be in touch! 

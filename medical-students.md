@@ -9,7 +9,7 @@ In an evaluation, the evaluating clinician will ask a client for a thorough hist
 
 Medical students will serve as scribes during this process. This requires them to take detailed notes of the client's history as obtained during the evaluation. Once the interview is completed and all parties feel as though they understand the client's case, a physical examination is performed on the client. Students will help document any physical evidence during this component of the evaluation. Students then prepare a draft of the narrative portion of the legal affidavit that can be incorporated into the final document prepared by the evaluating physician to be used in the client's case in immigration court.
 
-Students must undergo formal training at a Physicians for Human Rights Asylum Training event prior to serving as a medical scribe for the WNYHRC. These training events are full day conferences designed to educate medical students, physicians, lawyers, and other professionals how to effectively investigate and document torture in asylum-seekers. Those who attend the training sessions are taught about immigration law, the asylum process, and how to properly identify physical and psychological sequelae of trauma and torture.  
+Students must undergo formal training at a Physicians for Human Rights Asylum Training event prior to serving as a medical scribe for the HRI @ UB. These training events are full day conferences designed to educate medical students, physicians, lawyers, and other professionals how to effectively investigate and document torture in asylum-seekers. Those who attend the training sessions are taught about immigration law, the asylum process, and how to properly identify physical and psychological sequelae of trauma and torture.  
 
 More information about upcoming trainings can be found here: <a href="http://physiciansforhumanrights.org/training/asylum/">Asylum Program at Physicians for Human Rights</a>
 
@@ -62,4 +62,4 @@ Typically, once the client leaves, the students will spend a few minutes debrief
 	
 **I'm still interested! How can I get involved?**
 <br>
-Send us an email at <a href="mailto:wnyhrc@gmail.com?Subject=I want to get involved with the WNYHRC!">wnyhrc@gmail.com</a> and we can keep you posted on training opportunities! 
+Send us an email at <a href="mailto:admin@hribuffalo.org?Subject=I want to get involved with the WNYHRC!">admin@hribuffalo.org</a> and we can keep you posted on training opportunities! 
