@@ -1,0 +1,11 @@
+# Site settings
+title: WNY Human Rights Clinic
+email: wnyhrc@gmail.com
+description: WNY Human Rights Clinic
+baseurl: ""
+url: "http://wnyhrc.org"
+#twitter_username:
+#github_username:
+
+# Build settings
+markdown: kramdown
