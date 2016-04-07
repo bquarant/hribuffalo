@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WNY Human Rights Clinic</title>
-    <description>WNY Human Rights Clinic</description>
-    <link>http://wnyhrc.org/</link>
-    <atom:link href="http://wnyhrc.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Mar 2016 22:15:04 -0400</pubDate>
-    <lastBuildDate>Wed, 30 Mar 2016 22:15:04 -0400</lastBuildDate>
+    <title>The Human Rights Initiative @ UB</title>
+    <description>The Human Rights Initiative @ UB</description>
+    <link>http://hribuffalo.org/</link>
+    <atom:link href="http://hribuffalo.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 07 Apr 2016 10:25:27 -0400</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2016 10:25:27 -0400</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>HRI @ UB Presents at UB Psychiatry Grand Rounds</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/events/Psychiatry-Grand-Rounds.jpg&quot; width=&quot;100%&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;  &lt;br /&gt;
+&lt;a href=&quot;/assets/pdf/HRIatUB-Psychiatry-Grand-Rounds-Apr-2016.pdf&quot;&gt;Download the slides (3.5 MB)&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Apr 2016 04:00:00 -0400</pubDate>
+        <link>http://hribuffalo.org/2016/04/01/psychiatry-grand-rounds.html</link>
+        <guid isPermaLink="true">http://hribuffalo.org/2016/04/01/psychiatry-grand-rounds.html</guid>
+        
+        <category>wnyhrc</category>
+        
+        
+      </item>
     
       <item>
         <title>WNYHRC Presents at UB OB/GYN Grand Rounds</title>
@@ -17,8 +33,8 @@
 &lt;a href=&quot;/assets/pdf/WNYHRC-OBGYN-Grand-Rounds-2016.pdf&quot;&gt;Download the slides (2.4 MB)&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Jan 2016 04:15:00 -0500</pubDate>
-        <link>http://wnyhrc.org/2016/01/13/OBGYN-grand-rounds.html</link>
-        <guid isPermaLink="true">http://wnyhrc.org/2016/01/13/OBGYN-grand-rounds.html</guid>
+        <link>http://hribuffalo.org/2016/01/13/OBGYN-grand-rounds.html</link>
+        <guid isPermaLink="true">http://hribuffalo.org/2016/01/13/OBGYN-grand-rounds.html</guid>
         
         <category>wnyhrc</category>
         
@@ -35,8 +51,8 @@
 &lt;center&gt;&lt;img src=&quot;/img/events/HRI-Training-Slide.png&quot; /&gt;&lt;/center&gt;
 </description>
         <pubDate>Sat, 14 Nov 2015 03:00:00 -0500</pubDate>
-        <link>http://wnyhrc.org/2015/11/14/health-right-international-training.html</link>
-        <guid isPermaLink="true">http://wnyhrc.org/2015/11/14/health-right-international-training.html</guid>
+        <link>http://hribuffalo.org/2015/11/14/health-right-international-training.html</link>
+        <guid isPermaLink="true">http://hribuffalo.org/2015/11/14/health-right-international-training.html</guid>
         
         <category>wnyhrc</category>
         
@@ -51,8 +67,8 @@
 &lt;a href=&quot;/assets/pdf/WNYHRC-Grand-Rounds-Internal-Medicine-2015.pdf&quot;&gt;Download the slides (50.1 MB)&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Nov 2015 07:00:00 -0500</pubDate>
-        <link>http://wnyhrc.org/2015/11/05/IM-grand-rounds.html</link>
-        <guid isPermaLink="true">http://wnyhrc.org/2015/11/05/IM-grand-rounds.html</guid>
+        <link>http://hribuffalo.org/2015/11/05/IM-grand-rounds.html</link>
+        <guid isPermaLink="true">http://hribuffalo.org/2015/11/05/IM-grand-rounds.html</guid>
         
         <category>wnyhrc</category>
         
@@ -69,8 +85,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/events/TorontoPosterSession.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 Jun 2015 08:00:00 -0400</pubDate>
-        <link>http://wnyhrc.org/2015/06/05/toronto-poster-session.html</link>
-        <guid isPermaLink="true">http://wnyhrc.org/2015/06/05/toronto-poster-session.html</guid>
+        <link>http://hribuffalo.org/2015/06/05/toronto-poster-session.html</link>
+        <guid isPermaLink="true">http://hribuffalo.org/2015/06/05/toronto-poster-session.html</guid>
         
         <category>wnyhrc</category>
         
@@ -89,8 +105,8 @@
 &lt;p&gt;Not pictured: Nicholas Georgalas&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Apr 2015 08:00:00 -0400</pubDate>
-        <link>http://wnyhrc.org/2015/04/11/yale-training-events.html</link>
-        <guid isPermaLink="true">http://wnyhrc.org/2015/04/11/yale-training-events.html</guid>
+        <link>http://hribuffalo.org/2015/04/11/yale-training-events.html</link>
+        <guid isPermaLink="true">http://hribuffalo.org/2015/04/11/yale-training-events.html</guid>
         
         <category>wnyhrc</category>
         
