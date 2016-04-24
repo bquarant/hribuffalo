@@ -6,5 +6,5 @@ tags: wnyhrc
 published: true
 ---
 <br>
-<img src="{{ site.baseurl }}/img/events/interpreter-training-event.jpg" width="100%">
+<img src="{{ site.baseurl }}/img/events/interpreter-training-event.jpg">
 <br><br>
