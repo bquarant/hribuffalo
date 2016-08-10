@@ -17,9 +17,16 @@ During the evaluation, the evaluator will ask a client for a thorough history of
 	
 **What is the Human Rights Initiative @ UB?**
 
-The Human Rights Initiative at the University at Buffalo (initialy named the WNY Human Rights Clinic) was founded in 2014 to serve the need for medical and psychiatric forensic evaluations of refugees seeking asylum status in the Buffalo area. We partner closely with the WNY Center for Survivors of Torture (WNYCST) through Jewish Family Service of Buffalo and Erie County to identify clients who may benefit from our assessments. The WNYCST aims to provide an intensive case management and strength-based client centered model to support survivors of torture in their healing process. The goal of the HRI @ UB is to reinforce this endeavor by providing objective forensic examinations and creating affidavits based on our findings for use in legal asylum cases.
+The Human Rights Initiative at the University at Buffalo (formerly the WNY Human Rights Clinic) was founded in 2014 to serve the need for medical and psychiatric forensic evaluations of refugees seeking asylum status in the Buffalo area. We partner closely with the WNY Center for Survivors of Torture (WNYCST) through Jewish Family Service of Buffalo and Erie County to identify clients who may benefit from our assessments. The WNYCST aims to provide an intensive case management and strength-based client centered model to support survivors of torture in their healing process. The goal of the HRI @ UB is to reinforce this endeavor by providing objective forensic examinations and creating affidavits based on our findings for use in legal asylum cases.
 
-Our clinic is primarily medical student-run, and we are motivated by the knowledge that forensic examinations significantly increase the likelihood that asylum seekers will be successful in obtaining protection in the USA. We hope that the clinic will serve as a beneficial tool to educate volunteers about the struggles of our clients, the legal side of asylum-seeking, and the performance of forensic examinations.
+Our clinic is primarily medical student-run, and we are motivated by the knowledge that forensic examinations we facilitate significantly increase the likelihood that asylum seekers will be successful in obtaining protection in the USA. The HRI is a unique opportunity for medical student volunteers to learn about the profound nature of the struggles of our clients and work directly in the forensic examinations and legal affidavit preparation. 
+
+To date, we have served over 38 clients from over 20 countries, including multiple from the Democratic Republic of Congo, El Salvador, Rwanda, Afghanistan, and Angola. Our services have now been used by multiple applicants who have successfully received asylum in the United States.
+
+Our efforts extend to include public awareness and clinician outreach events, and within the past year we have hosted experts from HealthRight International here in Buffalo for a day-long asylum forensic clinician training event and we have recently given Grand Rounds presentations for the UB Departments of Internal Medicine, Psychiatry, and Obstetrics and Gynecology.
+
+Check out the latest news over at <a href="{{site.baseurl}}/updates"><strong>News & Updates</strong></a>
+
 
 <br>
 
