@@ -33,3 +33,9 @@ Check out the latest news over at <a href="{{site.baseurl}}/updates"><strong>New
 **Partnership with Jewish Family Service**
 
 The Western New York Center for Survivors of Torture (WNYCST) at Jewish Family Service was established in June of 2014 to address the consequences of political and state-sponsored torture experienced by survivors living in Western New York.The WNYCST pairs each client with a care coordinator to obtain services from partnering agencies and resources from the community. These agencies include the University of Buffalo School of Medicine and Biomedical Sciences, Vive, Inc., Journey’s End Refugee Services, LakeShore Behavioral Health, and Catholic Family Center in Rochester. Since January of 2015, the WNYCST has served over 100 men and women from over 25 countries.
+
+<br>
+
+**How can I get in touch with HRI at UB?**
+
+Feel free to email us: admin@hribuffalo.org
