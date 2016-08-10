@@ -66,4 +66,4 @@ Typically, once the client leaves, the students will spend a few minutes debrief
 	
 **I'm still interested! How can I get involved?**
 <br>
-Send us an email at <a href="mailto:admin@hribuffalo.org?Subject=I want to get involved with the WNYHRC!">admin@hribuffalo.org</a> and we can keep you posted on training opportunities! 
+Send us an email at <a href="mailto:admin@hribuffalo.org?Subject=I want to get involved with the HRI at UB"> and we can keep you posted on training opportunities! 

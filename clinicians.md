@@ -8,3 +8,7 @@ The role of the clinician is to perform a comprehensive evaluation of the client
 
 In order to participate, health professionals must attend an Asylum Training hosted by Physicians for Human Rights. 
 More information about upcoming trainings can be found here: <a href="http://physiciansforhumanrights.org/training/asylum/">Asylum Program at Physicians for Human Rights</a>
+
+**Interested in volunteering with the HRI at UB?**
+<br>
+Send us an email at <a href="mailto:admin@hribuffalo.org?Subject=I want to get involved with the HRI at UB">admin@hribuffalo.org</a> and let us know!

@@ -38,4 +38,4 @@ The Western New York Center for Survivors of Torture (WNYCST) at Jewish Family S
 
 **How can I get in touch with HRI at UB?**
 
-Feel free to email us: admin@hribuffalo.org
+Feel free to email us: <a href="mailto:admin@hribuffalo.org?Subject=I want to get involved with the HRI at UB">admin@hribuffalo.org</a>
