@@ -7,7 +7,10 @@ published: true
 ---
 <br>
 
+<!-- TODO: insert picture of stack of magazines.... -->
+
 <blockquote>
+	<!--TODO: GET BLOCKQUOTE -->
 </blockquote>
 
 <a href="{{ site.baseurl }}/assets/pdf/UB-Medicine-HRI-at-UB-Article-Summer-2016.pdf">Link to the article!</a>
